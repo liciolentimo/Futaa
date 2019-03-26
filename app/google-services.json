@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1038694664572",
+    "firebase_url": "https://futaa-70858.firebaseio.com",
+    "project_id": "futaa-70858",
+    "storage_bucket": "futaa-70858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038694664572:android:458186d575933818",
+        "android_client_info": {
+          "package_name": "com.lentimosystems.licio.futaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038694664572-k7tccq8srq9q6od1grl9npfn9pmltsn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADwWwseBIXIeFRvnNqnknbkmedOi2NE-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
